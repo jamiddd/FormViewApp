@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FieldView">
+        <attr name="fieldHint" format="string">Write something ...</attr>
+        <attr name="fieldEndIcon" format="integer">0</attr>
+        <attr name="fieldErrorEnabled" format="boolean">true</attr>
+    </declare-styleable>
+    <declare-styleable name="FormView">
+        <attr name="submitBtnLabel" format="string">Submit</attr>
+        <attr name="isSingleErrorForm" format="boolean">false</attr>
+        <attr name="reactive" format="boolean">false</attr>
+    </declare-styleable>
+</resources>

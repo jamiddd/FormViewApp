@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dimensions for android -->
+    <dimen name="action_bar">56dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_small_heading">20sp</dimen>
+    <dimen name="text_medium_heading">26sp</dimen>
+    <dimen name="text_large_heading">32sp</dimen>
+    <dimen name="text_extra_large_heading">40sp</dimen>
+    <dimen name="text_title">15sp</dimen>
+
+
+    <!-- Length -->
+    <dimen name="micro">4dp</dimen>
+    <dimen name="small">8dp</dimen>
+    <dimen name="medium">12dp</dimen>
+    <dimen name="large">16dp</dimen>
+    <dimen name="very_large">24dp</dimen>
+    <dimen name="extra_large">36dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="small_radius">@dimen/micro</dimen>
+    <dimen name="medium_radius">@dimen/small</dimen>
+    <dimen name="large_radius">@dimen/large</dimen>
+
+    <!-- Large screen paddings -->
+    <dimen name="small_screen_space">64dp</dimen>
+    <dimen name="medium_screen_space">82dp</dimen>
+    <dimen name="large_screen_space">108dp</dimen>
+
+
+
+</resources>
